@@ -1,0 +1,7 @@
+player_action,num_cards,player_score,dealer_score,dealer_upcard,outcome
+hit ,2,12,10,10,lose
+hit ,3,18,10,10,win
+stand,5,19,10,10,win
+hit,2,14,8,8,win
+double down,3,11,9,9,lose
+split,4,20,7,7,win
